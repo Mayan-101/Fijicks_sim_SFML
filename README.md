@@ -1,4 +1,4 @@
-# sfml_stuff__
+# Fijicks_sim_SFML
 
 this is suppose to be 2D physics simulator using C++.   
 this project explores basic collision detection , constraints and gravity     
